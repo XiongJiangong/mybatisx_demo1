@@ -11,6 +11,7 @@ public class MybatisxDemoApplication {
 
         System.out.println("AAAAAAAAAAAAAAAAAAAAA");
         System.out.println("BBBBBBBBBBBBBBBBBB");
+        System.out.println("ACCCCCCCCCCCCCCCCCCCCCC");
     }
 
 }
