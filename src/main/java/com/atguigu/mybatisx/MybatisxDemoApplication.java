@@ -8,6 +8,8 @@ public class MybatisxDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MybatisxDemoApplication.class, args);
+
+        System.out.println("AAAAAAAAAAAAAAAAAAAAA");
     }
 
 }
