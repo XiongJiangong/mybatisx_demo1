@@ -10,6 +10,7 @@ public class MybatisxDemoApplication {
         SpringApplication.run(MybatisxDemoApplication.class, args);
 
         System.out.println("AAAAAAAAAAAAAAAAAAAAA");
+        System.out.println("BBBBBBBBBBBBBBBBBB");
     }
 
 }
